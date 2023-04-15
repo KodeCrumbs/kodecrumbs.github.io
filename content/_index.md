@@ -27,5 +27,5 @@ title: "Code Crumbs"
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/Code-Crumbs-HS/code-crumb-site" >}}
-    {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://github.com/Code-Crumbs-HS/code-crumb-site" >}}
+    {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/code.crumbs" >}}
 </div>
