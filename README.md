@@ -1,8 +1,7 @@
 # Code-Crumb-Site
 
 <!-- Shields -->
-
-.[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 .[![Forks][forks-shield]][[forks-url](https://github.com/Code-Crumbs-HS/code-crumb-site/forks)]
 .[![MIT License][license-shield]][[license-url](https://github.com/Code-Crumbs-HS/code-crumb-site/blob/main/LICENSE)]
 
