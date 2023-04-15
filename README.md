@@ -18,12 +18,11 @@
   <h2 align="center">Code Crumbs' Site</h3>
 
   <p align="center">
-    The Code Crumbs' awesome website repository! Browse the code, make contributions or fork the repository to create your version of the website.
+    The Code Crumbs' awesome website repository! 
+    >Browse the code, make contributions or fork the repository to create your version of the website.
     <br />
 </p>
 </div>
-
-This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator. Browse the code, make contributions or fork the repository to create your version of the website.
 
 <!-- Contents -->
 <details>
@@ -47,11 +46,9 @@ This is the Code Crumb website repository built using Hugo, a simple, fast, and 
 
 <!-- About -->
 ## About The Project
-<img src="demo.png" alt="Homepage Screenshot" width="900" height="400">
- 
-This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator. 
+<img src="demo.png" alt="Homepage Screenshot" width="960" height="540"> 
 
-Code Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. 
+Code Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator.
 
 #### Colour Palette
 The website uses a basic color scheme derived off of the logo's hue. Light schemed by default, a dark mode is available consisting of the exchanged foreground and background colours. 
