@@ -20,10 +20,10 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="800" height="400">
+    <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
   </a>
 
-  <h3 align="center">Code Crumbs Site</h3>
+  <h2 align="center">Code Crumbs Site</h3>
 
   <p align="center">
     Code Crumb's awesome website repository!
