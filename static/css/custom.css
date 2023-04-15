@@ -15,3 +15,25 @@ a {
 .nav-link:hover{
   color: #f3b160;
 }
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-toggler{
+  border-color: #918d8d;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active
+.navbar-toggler-icon:focus {
+  color: #918d8d;
+}
+.btn-primary{
+  background-color: #f3b160;
+  border-color: #f3b160;
+}
+.form-control{
+  background-color: #ffffff;
+  border-color: #979797;
+}
+.form-control:focus {
+  background-color: #ffffff;
+}
