@@ -1,7 +1,7 @@
-baseurl: https://code-crumbs-hs.github.io/code-crumbs-site
+baseurl: https://code-crumbs-hs.github.io/
 copyright: Made with ♥ | © Code Crumbs 
 title: Code Crumbs
-description: A student-led highschool computer club
+description: A student-led highschool computer club!
 enablerobotstxt: true
 languagecode: en-us
 languages:
@@ -12,10 +12,10 @@ languages:
         name: Home
         weight: 10
         url: /
-      - identifier: blog
-        name: Blog
+      - identifier: team
+        name: Team
         weight: 20
-        url: /blog/
+        url: /team/
       - identifier: search
         name: Search
         weight: 60
@@ -66,7 +66,7 @@ module:
     target: "static/_paige/bootstrap-icons/fonts"
   - source: "node_modules/bootstrap-icons/font"
     target: "assets/_paige/bootstrap-icons"
-    includeFiles: ["/bootstrap-icons.css"]
+    includeFiles: ["/bootstrap-icons.css"]  
 outputs:
   home:
   - html
@@ -76,5 +76,5 @@ paginate: 50
 permalinks:
   articles: /:year/:month/:day/:title/
   blog: /:year/:month/:day/:title/
-timezone: America/Los_Angeles
+timezone: Asia/Kolkata
 titlecasestyle: Go
