@@ -72,7 +72,7 @@ Thank you for considering contributing to Code Crumbs! This guide will help you 
 
 ### Code of Conduct
 
-Before contributing to the project, please read and abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
+Before contributing to the project, please read and abide by our [Code of Conduct](CODE_OF_CONDUCT).
 
 ### Issues and Bugs
 
@@ -89,7 +89,7 @@ We welcome all contributions, big and small! To submit a contribution, please fo
 5. Push your changes to your forked repository.
 6. Submit a pull request from your branch to the `main` branch of the project repository.
 
-Please ensure that your code follows the [Hugo coding standards](https://gohugo.io/getting-started/code-style/).
+Please ensure that your code follows the [Hugo coding standards](https://gohugo.io/categories/getting-started/).
 
 ### Git Attributes
 
@@ -108,10 +108,10 @@ If you have any questions or concerns, please reach out to us through the [Issue
 
 <!-- Markdown Links -->
 [license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
-[license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
+[license-url]: [https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE](https://github.com/Code-Crumbs-HS/code-crumb-site/blob/main/LICENSE)
 [forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
 [forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
-[contributors-shield]:https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge
-[contributors-url]:https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
-[insta-url]:https://instagram.com/code.crumbs
-[gmail-url]:mailto:codecrumbshs@gmail.com
+[contributors-shield]: https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge
+[contributors-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
+[insta-url]: https://www.instagram.com/code.crumbs/
+[gmail-url]: mailto:codecrumbshs@gmail.com
