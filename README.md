@@ -1,5 +1,14 @@
 # Code-Crumb-Site
 
+<!-- Shields -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][[forks-url](https://github.com/Code-Crumbs-HS/code-crumb-site/forks)]
+[![MIT License][license-shield]][[license-url](https://github.com/Code-Crumbs-HS/code-crumb-site/blob/main/LICENSE)]
+
+<!-- Logo & Heading  -->
+
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="800" height="400">
