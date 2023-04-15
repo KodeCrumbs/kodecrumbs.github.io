@@ -47,7 +47,7 @@ This is the Code Crumb website repository built using Hugo, a simple, fast, and 
 
 <!-- About -->
 ## About The Project
-[![Homepage Screen Shot](demo.png)](https://code-crumbs-hs.github.io/code-crumb-site/)
+<img src="demo.png" alt="Homepage Screenshot" width="900" height="400">
  
 This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator. 
 
