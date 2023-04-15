@@ -1,0 +1,17 @@
+body {
+  background-color: #FFE6C7;
+  color: #040303;
+}
+a {
+  color: #040303;
+}
+.nav-pills{
+  --bs-nav-pills-link-active-bg: #f3b160;
+  --bs-nav-pills-link-active-color:#ffffff;
+}
+.nav-link{
+  color: #040303 ;
+}
+.nav-link:hover{
+  color: #f3b160;
+}
