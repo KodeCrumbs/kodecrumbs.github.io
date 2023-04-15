@@ -2,10 +2,16 @@
 
 [license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
 [license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
+[forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
+[contributors-shield]:https://img.shields.io/github/contributors/Code-Crumbs-HS/code-crumb-site?logoColor=orange&style=for-the-badge
+[contributors-url]:https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
+
+
 
 <!-- Shields -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][[forks-url](https://github.com/Code-Crumbs-HS/code-crumb-site/forks)]
+[![Forks][forks-shield]][[forks-url]
 [![MIT License][license-shield]][license-url]
 
 
