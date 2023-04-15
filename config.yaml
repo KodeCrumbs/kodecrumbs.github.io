@@ -71,6 +71,20 @@ outputs:
   - html
   - json
   - rss
+params:
+  authors:
+    kartikey:
+      name: "Kartikey Singh Chauhan"
+    dhruv:
+      name: "Dhruv Tandon"
+    kunwar:
+      name: "Kunwar Utkarsh"
+    shreya:
+      name: "Shreya Maurya"
+    yashashv:
+      name: "Yashashv Samtani"
+taxonomies:
+  author: "team"
 paginate: 50
 permalinks:
   articles: /:year/:month/:day/:title/
