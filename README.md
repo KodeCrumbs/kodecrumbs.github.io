@@ -1,15 +1,5 @@
 # Code-Crumb-Site
 
-[license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
-[license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
-[forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
-[forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
-[contributors-shield]:https://img.shields.io/github/contributors/Code-Crumbs-HS/code-crumb-site?logoColor=orange&style=for-the-badge
-[contributors-url]:https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
-[insta-url]:https://instagram.com/code.crumbs
-[gmail-url]:mailto:codecrumbshs@gmail.com
-
-
 <!-- Shields -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -25,17 +15,17 @@
     <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
   </a>
 
-  <h2 align="center">Code Crumbs Site</h3>
+  <h2 align="center">Code Crumbs' Site</h3>
 
   <p align="center">
-    The Code Crumbs' awesome website repository!
+    The Code Crumbs' awesome website repository! Browse the code, make contributions or fork the repository to create your version of the website.
     <br />
 </p>
 </div>
 
 This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator. Browse the code, make contributions or fork the repository to create your version of the website.
 
-<!-- TABLE OF CONTENTS -->
+<!-- Contents -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,11 +45,20 @@ This is the Code Crumb website repository built using Hugo, a simple, fast, and 
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- About -->
 ## About The Project
+[![Homepage Screen Shot](demo.png)](https://code-crumbs-hs.github.io/code-crumb-site/)
+ 
+This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator. 
 
+Code Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. 
 
+#### Colour Palette
+The website uses a basic color scheme derived off of the logo's hue. Light schemed by default, a dark mode is available consisting of the exchanged foreground and background colours. 
 
+The scheme can be found at `static/css/custom.css`
+
+<!-- Acknowledges libraries/frameworks used in development -->
 ### Built With
 The Following major libraries and frameworks helped bootstrap the project:
 
@@ -69,6 +68,7 @@ The Following major libraries and frameworks helped bootstrap the project:
 * ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 * ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+<!-- Guide to contribute to the project -->
 ## Contributing to Code Crumbs
 
 Thank you for considering contributing to Code Crumbs! This guide will help you get started with contributing to the project.
@@ -106,3 +106,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 If you have any questions or concerns, please reach out to us through the [Issues](https://github.com/code-crumbs-hs/code-crumb-site/issues) section of our GitHub repository.
+
+
+
+<!-- Markdown Links -->
+[license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
+[license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
+[forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
+[contributors-shield]:https://img.shields.io/github/contributors/Code-Crumbs-HS/code-crumb-site?logoColor=orange&style=for-the-badge
+[contributors-url]:https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
+[insta-url]:https://instagram.com/code.crumbs
+[gmail-url]:mailto:codecrumbshs@gmail.com
