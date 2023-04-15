@@ -1,9 +1,13 @@
 # Code-Crumb-Site
 
+[license-shield]:https://img.shields.io/badge/License-MIT-Blue
+[license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
+
 <!-- Shields -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][[forks-url](https://github.com/Code-Crumbs-HS/code-crumb-site/forks)]
-[[![MIT License][license-shield]](https://img.shields.io/bower/l/html?color=Blue&label=License&logo=MIT&logoColor=Orange&style=for-the-badge)
+[![MIT License][license-shield]][license-url]
+
 
 <!-- Logo & Heading  -->
 
