@@ -11,7 +11,7 @@
 
 <!-- Shields -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][[forks-url]
+[![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
 
