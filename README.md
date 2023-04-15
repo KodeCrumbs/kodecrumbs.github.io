@@ -1,7 +1,7 @@
 # Code-Crumb-Site
 
 <!-- Shields -->
-[![Contributors][https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][insta-url]
@@ -111,7 +111,7 @@ If you have any questions or concerns, please reach out to us through the [Issue
 [license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
 [forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
 [forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
-[contributors-shield]:https://img.shields.io/github/contributors/Code-Crumbs-HS/code-crumb-site?logoColor=orange&style=for-the-badge
+[contributors-shield]:https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge
 [contributors-url]:https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
 [insta-url]:https://instagram.com/code.crumbs
 [gmail-url]:mailto:codecrumbshs@gmail.com
