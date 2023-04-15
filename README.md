@@ -1,7 +1,7 @@
 # Code-Crumb-Site
 
 <!-- Shields -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][insta-url]
