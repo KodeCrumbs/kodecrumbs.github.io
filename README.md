@@ -1,6 +1,6 @@
 # Code-Crumb-Site
 
-[license-shield]:https://img.shields.io/badge/License-MIT-Blue
+[license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
 [license-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE
 
 <!-- Shields -->
