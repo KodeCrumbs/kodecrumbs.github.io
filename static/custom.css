@@ -1,9 +1,9 @@
 body {
-    background-color: #3C2A21;
-    color: #D5CEA3;
+    background-color: #FFE6C7;
+    color: #040303;
   }
 a {
-    color: #D5CEA3;
+    color: #040303;
 }
 .active.nav-link {
   color: red;
