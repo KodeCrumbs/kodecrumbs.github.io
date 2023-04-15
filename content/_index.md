@@ -13,7 +13,7 @@ paige:
 title: "Code Crumbs"
 ---
 
-{{< paige/image alt="Code Crumbs" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" width="100rem" justify="center" loading="eager" process="webp" src="CodeCrumbs- Lab-Orange.svg" >}}
+{{< paige/image alt="Code Crumbs" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" width="100rem" justify="center" loading="eager" process="webp" src="CodeCrumbs- Lab(Expanded).svg" >}}
 
 <p class="display-5 fw-bold h2 text-center">Unleash Your Coding Potential with Code Crumbs</p>
 
