@@ -1,4 +1,4 @@
-﻿paige_breadcrumbs:
+paige_breadcrumbs:
   other: Breadcrumbs
 
 paige_collections:
@@ -23,13 +23,11 @@ paige_pages:
 paige_pinned_page:
   other: Pinned page
 
-paige_search_input: "Search..."
+paige_search_button:
+  other: Search
 
 paige_search_error:
   other: Error
-
-paige_search_input:
-  other: Query
 
 paige_search_nothing:
   other: Nothing found
@@ -43,3 +41,4 @@ paige_search_something:
 paige_sections:
   other: Sections
 
+paige_search_input: "Search..."
