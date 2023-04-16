@@ -1,0 +1,45 @@
+﻿paige_breadcrumbs:
+  other: Breadcrumbs
+
+paige_collections:
+  other: Collections
+
+paige_figure:
+  other: Figure
+
+paige_aria_section_link:
+  other: Link to this section
+
+paige_minutes:
+  one: minute
+  other: minutes
+
+paige_noscript:
+  other: JavaScript is required.
+
+paige_pages:
+  other: Pages
+
+paige_pinned_page:
+  other: Pinned page
+
+paige_search_input: "Search..."
+
+paige_search_error:
+  other: Error
+
+paige_search_input:
+  other: Query
+
+paige_search_nothing:
+  other: Nothing found
+
+paige_search_searching:
+  other: Searching
+
+paige_search_something:
+  other: Something found
+
+paige_sections:
+  other: Sections
+
