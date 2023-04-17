@@ -108,10 +108,10 @@ If you have any questions or concerns, please reach out to us through the [Issue
 
 <!-- Markdown Links -->
 [license-shield]:https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blueviolet&style=for-the-badge
-[license-url]: [https://github.com/Code-Crumbs-HS/code-crumb-site/LICENSE](https://github.com/Code-Crumbs-HS/code-crumb-site/blob/main/LICENSE)
-[forks-shield]: https://img.shields.io/github/forks/Code-Crumbs-HS/code-crumb-site?style=for-the-badge
-[forks-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/forks
-[contributors-shield]: https://img.shields.io/github/contributors-anon/Code-Crumbs-HS/code-crumb-site?logoColor=important&style=for-the-badge
-[contributors-url]: https://github.com/Code-Crumbs-HS/code-crumb-site/graphs/contributors
-[insta-url]: https://www.instagram.com/code.crumbs/
+[license-url]: [https://github.com/KodeCrumbs/LICENSE](https://github.com/Code-Crumbs-HS/code-crumb-site/blob/main/LICENSE)
+[forks-shield]: https://img.shields.io/github/forks/KodeCrumbs?style=for-the-badge
+[forks-url]: https://github.com/KodeCrumbs/forks
+[contributors-shield]: https://img.shields.io/github/contributors-anon/KodeCrumbs?logoColor=important&style=for-the-badge
+[contributors-url]: https://github.com/KodeCrumbs/graphs/contributors
+[insta-url]: https://www.instagram.com/kode.crumbs/
 [gmail-url]: mailto:codecrumbshs@gmail.com
