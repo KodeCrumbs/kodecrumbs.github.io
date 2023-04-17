@@ -15,7 +15,7 @@
     <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
   </a>
 
-  <h2 align="center">Kode Crumbs' Site</h3>
+  <h2 align="center">Kode Crumb</h3>
 
   <p align="center">
     The Kode Crumbs' awesome website repository! 
