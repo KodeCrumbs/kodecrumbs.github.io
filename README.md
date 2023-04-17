@@ -47,7 +47,7 @@
 ## About The Project
 <img src="demo.png" alt="Homepage Screenshot" width="960" height="540"> 
 
-Kode Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator.
+Kode Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Kode Crumbs' website repository built using Hugo, a simple, fast, and flexible static site generator.
 
 #### Colour Palette
 The website uses a basic color scheme derived off of the logo's hue. Light schemed by default, a dark mode is available consisting of the exchanged foreground and background colours. 
