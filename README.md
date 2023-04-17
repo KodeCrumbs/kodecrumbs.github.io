@@ -11,8 +11,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Code-Crumbs-HS/code-crumb-site">
-    <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
+  <a href="https://github.com/KodeCrumbs/kodecrumbs.github.io">
+    <img src="static/KodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
   </a>
 
   <h2 align="center">Kode Crumb</h3>
@@ -75,7 +75,7 @@ Before contributing to the project, please read and abide by our [Code of Conduc
 
 ### Issues and Bugs
 
-If you find an issue or bug with the project, please submit a detailed report in the [Issues](https://github.com/Kode-crumbs-hs/kode-crumbs-hs.github.io/issues) section of our GitHub repository. Please be sure to include a clear and concise description of the issue, along with any steps you took to reproduce it.
+If you find an issue or bug with the project, please submit a detailed report in the [Issues](https://github.com/KodeCrumbs/kodecrumbs.github.io/issues) section of our GitHub repository. Please be sure to include a clear and concise description of the issue, along with any steps you took to reproduce it.
 
 ### Pull Requests
 
@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-If you have any questions or concerns, please reach out to us through the [Issues](https://github.com/code-crumbs-hs/code-crumb-site/issues) section of our GitHub repository.
+If you have any questions or concerns, please reach out to us through the [Issues](https://github.com/KodeCrumbs/kodecrumbs.github.io/issues) section of our GitHub repository.
 
 
 
