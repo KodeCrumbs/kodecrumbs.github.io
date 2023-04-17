@@ -2,8 +2,9 @@ body {
   background-color: #FFE6C7;
   color: #040303;
 }
+
 a {
-  color: #040303;
+  color: #8a4c00;
 }
 .nav-pills{
   --bs-nav-pills-link-active-bg: #f3b160;

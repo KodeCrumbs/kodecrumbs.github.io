@@ -18,9 +18,8 @@
   <h2 align="center">Kode Crumb</h3>
 
   <p align="center">
-    The Kode Crumbs' awesome website repository! 
-    >Browse the code, make contributions or fork the repository to create your version of the website.
-    <br />
+    Kode Crumbs' awesome website repository! 
+    <br>Browse the code, make contributions or fork the repository to create your version of the website.
 </p>
 </div>
 
@@ -98,7 +97,7 @@ Please make sure to use the `.gitattributes` file to ignore any files that shoul
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
