@@ -1,4 +1,4 @@
-# Code-Crumb-Site
+# Kode-Crumb-Site
 
 <!-- Shields -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -15,10 +15,10 @@
     <img src="static/CodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
   </a>
 
-  <h2 align="center">Code Crumbs' Site</h3>
+  <h2 align="center">Kode Crumbs' Site</h3>
 
   <p align="center">
-    The Code Crumbs' awesome website repository! 
+    The Kode Crumbs' awesome website repository! 
     >Browse the code, make contributions or fork the repository to create your version of the website.
     <br />
 </p>
@@ -48,7 +48,7 @@
 ## About The Project
 <img src="demo.png" alt="Homepage Screenshot" width="960" height="540"> 
 
-Code Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator.
+Kode Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Code Crumb website repository built using Hugo, a simple, fast, and flexible static site generator.
 
 #### Colour Palette
 The website uses a basic color scheme derived off of the logo's hue. Light schemed by default, a dark mode is available consisting of the exchanged foreground and background colours. 
@@ -66,9 +66,9 @@ The Following major libraries and frameworks helped bootstrap the project:
 * ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <!-- Guide to contribute to the project -->
-## Contributing to Code Crumbs
+## Contributing to Kode Crumbs
 
-Thank you for considering contributing to Code Crumbs! This guide will help you get started with contributing to the project.
+Thank you for considering contributing to Kode Crumbs! This guide will help you get started with contributing to the project.
 
 ### Code of Conduct
 
@@ -76,7 +76,7 @@ Before contributing to the project, please read and abide by our [Code of Conduc
 
 ### Issues and Bugs
 
-If you find an issue or bug with the project, please submit a detailed report in the [Issues](https://github.com/code-crumbs-hs/code-crumb-site/issues) section of our GitHub repository. Please be sure to include a clear and concise description of the issue, along with any steps you took to reproduce it.
+If you find an issue or bug with the project, please submit a detailed report in the [Issues](https://github.com/Kode-crumbs-hs/kode-crumbs-hs.github.io/issues) section of our GitHub repository. Please be sure to include a clear and concise description of the issue, along with any steps you took to reproduce it.
 
 ### Pull Requests
 
