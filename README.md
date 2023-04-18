@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KodeCrumbs/kodecrumbs.github.io">
-    <img src="static/KodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
+    <img src="static/KodeCrumbs- Lab(Expanded).svg" alt="Logo" width="500" height="200">
   </a>
 
   <h2 align="center">Kode Crumb</h3>
