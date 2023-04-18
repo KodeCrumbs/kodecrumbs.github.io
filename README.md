@@ -12,10 +12,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/KodeCrumbs/kodecrumbs.github.io">
-    <img src="static/KodeCrumbs- Lab-Orange.svg" alt="Logo" width="500" height="200">
+    <img src="static/KodeCrumbs- Lab(Expanded).svg" alt="Logo" width="500" height="200">
   </a>
 
-  <h2 align="center">Kode Crumb</h3>
+  <h2 align="center">Kode Crumbs</h3>
 
   <p align="center">
     Kode Crumbs' awesome website repository! 
@@ -23,6 +23,7 @@
 </p>
 </div>
 
+<br />
 <!-- Contents -->
 <details>
   <summary>Table of Contents</summary>
@@ -45,7 +46,9 @@
 
 <!-- About -->
 ## About The Project
-<img src="demo.png" alt="Homepage Screenshot" width="960" height="540"> 
+<p align = "center">
+<img src="demo.png" alt="Homepage Screenshot" width="663" height="313"> 
+</p>
 
 Kode Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Kode Crumbs' website repository built using Hugo, a simple, fast, and flexible static site generator.
 
