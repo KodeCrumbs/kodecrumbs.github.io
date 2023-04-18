@@ -6,6 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][insta-url]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail-url]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linked-url]
 
 <!-- Logo & Heading  -->
 
@@ -117,3 +118,4 @@ If you have any questions or concerns, please reach out to us through the [Issue
 [contributors-url]: https://github.com/KodeCrumbs/kode-crumbs-hs.github.io/graphs/contributors
 [insta-url]: https://www.instagram.com/kode.crumbs/
 [gmail-url]: mailto:codecrumbshs@gmail.com
+[linked-url]: https://www.linkedin.com/company/kode-crumbs/
