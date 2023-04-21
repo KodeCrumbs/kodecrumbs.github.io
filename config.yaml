@@ -11,9 +11,13 @@ languages:
         name: Home
         weight: 10
         url: /
+      - identifier: projects
+        name: Projects
+        weight: 20
+        url: /projects/
       - identifier: team
         name: Team
-        weight: 20
+        weight: 30
         url: /team/
       - identifier: search
         name: Search
@@ -81,8 +85,6 @@ params:
       name: "Kunwar Utkarsh"
     shreya:
       name: "Shreya Maurya"
-    yashashv:
-      name: "Yashashv Samtani"
 taxonomies:
   author: "team"
 paginate: 50
