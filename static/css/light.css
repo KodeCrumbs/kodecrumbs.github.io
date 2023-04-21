@@ -30,6 +30,8 @@ a {
 .btn-primary{
   background-color: #f3b160;
   border-color: #f3b160;
+  --bs-btn-hover-bg: #5e5e5ef6;
+  --bs-btn-hover-border-color: #5e5e5ef6;
 }
 .form-control{
   background-color: #ffffff;
