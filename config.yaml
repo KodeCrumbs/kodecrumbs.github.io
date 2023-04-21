@@ -85,8 +85,6 @@ params:
       name: "Kunwar Utkarsh"
     shreya:
       name: "Shreya Maurya"
-    yashashv:
-      name: "Yashashv Samtani"
 taxonomies:
   author: "team"
 paginate: 50
