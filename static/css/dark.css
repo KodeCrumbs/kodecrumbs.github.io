@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #141414;
+  color: #ffffff;
 }
 .nav-pills{
   --bs-nav-pills-link-active-bg: #413543;
@@ -28,15 +28,17 @@ a {
   color: #918d8d;
 }
 .btn-primary{
-  background-color: #f3b160;
-  border-color: #f3b160;
+  background-color: #413543;
+  border-color: #413543;
+  --bs-btn-hover-bg: #5e5e5ef6;
+  --bs-btn-hover-border-color: #5e5e5ef6;
 }
 .form-control{
-  background-color: #ffffff;
+  background-color: #212529;
   border-color: #979797;
 }
 .form-control:focus {
-  background-color: #ffffff;
+  background-color: #212529;
 }
 .float-container {
   bottom: 2rem;
@@ -51,8 +53,8 @@ a {
   width: 3rem;
   height: 3rem;
   font-size: 2rem;
-  color: #000000;
-  background-color: #FFE6C7;
+  color: #e6e6e6;
+  background-color: #343434;
   border-radius: 0.2rem;
   opacity: 0.5;
   transition: all 0.25s ease-in;
