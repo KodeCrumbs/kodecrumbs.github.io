@@ -38,3 +38,38 @@ a {
 .form-control:focus {
   background-color: #ffffff;
 }
+.float-container {
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 100;
+  position: fixed;
+  font-size: 1.6em;
+}
+.float-container a {
+  position: relative;
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  font-size: 2rem;
+  color: #000000;
+  background-color: #FFE6C7;
+  border-radius: 0.2rem;
+  opacity: 0.5;
+  transition: all 0.25s ease-in;
+}
+.float-container a:hover, .float-container a:focus {
+  color: #486ce2;
+  opacity: 1;
+}
+@media only screen and (max-width: 768px) {
+  .float-container a:hover, .float-container a:focus {
+    color: #000;
+    opacity: 0.5;
+  }
+}
+.float-container a i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
