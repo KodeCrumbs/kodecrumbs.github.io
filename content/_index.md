@@ -26,6 +26,7 @@ title: "Kode Crumbs"
 </div>
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
-    {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/KodeCrumbs/kode-crumbs-hs.github.io" >}}
-    {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/kode.crumbs" >}}
+    <a href="https://www.github.com/KodeCrumbs/kode-crumbs-hs.github.io"><i class="fa-brands fa-github"></i></a>
+    <a href="https://www.linkedin.com/company/kode-crumbs"><i class="fa-brands fa-linkedin" style="color: #0077b5;"></i></a>
+    <a href="https://www.instagram.com/kode.crumbs/"><i class="fa-brands fa-instagram" style="color: #e1306c;"></i></a>
 </div>
