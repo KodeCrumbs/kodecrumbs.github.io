@@ -93,3 +93,7 @@ permalinks:
   blog: /:year/:month/:day/:title/
 timezone: Asia/Kolkata
 titlecasestyle: Go
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 1
