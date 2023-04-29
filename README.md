@@ -48,7 +48,7 @@
 <!-- About -->
 ## About The Project
 <p align = "center">
-<img src="demo.png" alt="Homepage Screenshot" width="663" height="313"> 
+<img src="Dark.png" alt="Homepage Screenshot" width="663" height="313"> 
 </p>
 
 Kode Crumbs - We are a community for high school coders. Join us on the journey of exploring, learning and building cool things. This is the Kode Crumbs' website repository built using Hugo, a simple, fast, and flexible static site generator.
