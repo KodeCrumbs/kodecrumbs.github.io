@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "chmod 755 ./build.sh && ./build.sh"
+command = "chmod +755 ./build.sh && ./build.sh"
 
 [context.production.environment]
 HUGO_VERSION = "0.111.3"
