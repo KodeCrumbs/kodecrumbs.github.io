@@ -1,4 +1,6 @@
-echo "Install Dart Sass Embedded..."
+#!/bin/bash
+
+echo "Installing Dart Sass Embedded..."
 
 # This is in Netlify's PATH.
 BIN_DIR=/opt/build/repo/node_modules/.bin
@@ -10,18 +12,17 @@ curl -LJO https://github.com/sass/dart-sass-embedded/releases/download/${DARTSAS
 
 tar -xvf sass_embedded-${DARTSASS_VERSION}-linux-x64.tar.gz;
 
-mv sass_embedded/dart-sass-embedded $BIN_DIR
-chmod 755 $BIN_DIR/dart-sass-embedded
-
 export PATH=$PATH:$PWD/sass_embedded/src 
+
+chmod 755 sass_embedded/dart-sass-embedded
+
+mv sass_embedded/dart-sass-embedded $BIN_DIR
 
 rm -rf sass_embedded*;
 
 echo "List Bin Dir..."
 
 ls $BIN_DIR;
-
-dart-sass-embedded --version
 
 echo "Building..."
 
