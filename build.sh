@@ -16,12 +16,15 @@ mv sass_embedded/dart-sass-embedded $BIN_DIR
 
 rm -rf sass_embedded*;
 
-# Add read and execute permissions for the user running Hugo
-chmod +rx $BIN_DIR/dart-sass-embedded
 
 echo "List Bin Dir..."
 
+
+
 ls $BIN_DIR;
+
+# Add read and execute permissions for the user running Hugo
+chmod 755 dart-sass-embedded
 
 dart-sass-embedded --version
 
