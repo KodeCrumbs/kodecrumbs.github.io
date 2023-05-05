@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Install Dart Sass Embedded..."
 
 # This is in Netlify's PATH.
@@ -13,16 +11,15 @@ curl -LJO https://github.com/sass/dart-sass-embedded/releases/download/${DARTSAS
 tar -xvf sass_embedded-${DARTSASS_VERSION}-linux-x64.tar.gz;
 
 mv sass_embedded/dart-sass-embedded $BIN_DIR
+chmod 755 $BIN_DIR/dart-sass-embedded
+
+export PATH=$PATH:$PWD/sass_embedded/src 
 
 rm -rf sass_embedded*;
-
 
 echo "List Bin Dir..."
 
 ls $BIN_DIR;
-
-# Add read and execute permissions for the user running Hugo
-chmod 755 $BIN_DIR/dart-sass-embedded
 
 dart-sass-embedded --version
 
