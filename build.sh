@@ -14,7 +14,7 @@ tar -xvf sass_embedded-${DARTSASS_VERSION}-linux-x64.tar.gz;
 
 export PATH=$PATH:$PWD/sass_embedded/src 
 
-chmod 755 sass_embedded/dart-sass-embedded
+
 
 mv sass_embedded/dart-sass-embedded $BIN_DIR
 
@@ -23,6 +23,7 @@ rm -rf sass_embedded*;
 echo "List Bin Dir..."
 
 ls $BIN_DIR;
+chmod 755 dart-sass-embedded
 
 echo "Building..."
 
