@@ -1,3 +1,4 @@
+baseurl: https://kodec.tech/
 copyright: Made with ♥ | © Kode Crumbs 
 title: Kode Crumbs
 description: A student-led highschool computer club!
@@ -11,13 +12,21 @@ languages:
         name: Home
         weight: 10
         url: /
+      - identifier: joinus
+        name: Join Us!
+        weight: 20
+        url: /joinus/
       - identifier: projects
         name: Projects
-        weight: 20
+        weight: 30
         url: /projects/
+      - identifier: faq
+        name: FAQ
+        weight: 40
+        url: /faq/
       - identifier: team
         name: Team
-        weight: 30
+        weight: 50
         url: /team/
       - identifier: search
         name: Search
@@ -89,8 +98,8 @@ taxonomies:
   author: "team"
 paginate: 50
 permalinks:
-  articles: /:year/:month/:day/:title/
-  blog: /:year/:month/:day/:title/
+  team: /:year/:month/:day/:title/
+  projects: /:year/:month/:day/:title/
 timezone: Asia/Kolkata
 titlecasestyle: Go
 sitemap:
