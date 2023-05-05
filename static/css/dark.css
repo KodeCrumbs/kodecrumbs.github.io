@@ -36,9 +36,11 @@ a {
 .form-control{
   background-color: #212529;
   border-color: #979797;
+  color: #ffffff;
 }
 .form-control:focus {
   background-color: #212529;
+  color: #ffffff;
 }
 .float-container {
   bottom: 2rem;
