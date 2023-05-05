@@ -23,8 +23,8 @@ rm -rf sass_embedded*;
 echo "List Bin Dir..."
 
 ls $BIN_DIR;
-chmod 755 $BIN_DIR/dart-sass-embedded
-
+chmod +755 $BIN_DIR/dart-sass-embedded
+dart-sass-embedded --version
 echo "Building..."
 
 hugo
