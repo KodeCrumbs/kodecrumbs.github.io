@@ -77,3 +77,12 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#containerFaq.container-sm {
+  min-width: 1000px;
+}
+
+@media (max-width: 768px) {
+  #containerFaq.container-sm {
+    min-width: 100%;
+  }
+}
