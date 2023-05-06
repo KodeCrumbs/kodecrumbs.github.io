@@ -1,6 +1,7 @@
 ---
 categories: [technology]
 date: 2023-04-21T11:20:18
+url: /projects/kode-quest
 description: Kode Quest is the ultimate search engine for high schoolers looking to find opportunities tailored to their interests and needs. With advanced filters and refinements, Kode Quest helps you save time and discover the best opportunities out there, all in one place.
 link: https://cse.google.com/cse?cx=4168224e459284430#gsc.tab=0
 tags: [search-engine]
