@@ -57,7 +57,7 @@ title: "Frequently Asked Questions"
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
       <div class="accordion-body">
-        To join Kode Crumbs, one can fill out the form on the <a href="/joinus">Join Us</a> page of our website. This form  asks for personal information, such as name and age, and is used to register for the club. Secondly, one can send a direct message (DM) to us on our social media accounts expressing interest in joining. These social media accounts can be found at the bottom of the homepage. By providing these options, we aim to make it easy for anyone interested in joining to do so in a way that is most convenient for them.
+        To join Kode Crumbs, one can fill out the form on the <a href="https://www.kodec.tech/joinus">Join Us</a> page of our website. This form  asks for personal information, such as name and age, and is used to register for the club. Secondly, one can send a direct message (DM) to us on our social media accounts expressing interest in joining. These social media accounts can be found at the bottom of the homepage. By providing these options, we aim to make it easy for anyone interested in joining to do so in a way that is most convenient for them.
       </div>
     </div>
   </div>
