@@ -34,9 +34,9 @@ a {
   --bs-btn-hover-border-color: #5e5e5ef6;
 }
 .form-control{
-  background-color: #F7F7F7;
+  background-color: #ffffff;
   border-color: #979797;
-  color: #141414;
+  color: #000000;
 }
 .form-control:focus {
   background-color: #ffffff;
@@ -78,7 +78,7 @@ a {
   transform: translate(-50%, -50%);
 }
 .accordion-button{
-  background-color: #ffdcb2;
+  background-color: #FFE6C7;
   color: #000000;
 }
 .accordion-button ::after {
@@ -86,13 +86,13 @@ a {
 }
 .accordion-item{
   color: #000000;
-  background-color: #ffedd7;
+  background-color: #ffe2bf;
   width: 100% ;
   height: 100%;
 }
 .accordion-button:not(.collapsed){
   color: #141414;
-  background-color: #ffdcb2;
+  background-color: #fdd5a3;
 }
 .text-muted {
   color:#646464 !important;
