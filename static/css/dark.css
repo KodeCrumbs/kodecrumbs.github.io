@@ -79,6 +79,7 @@ a {
 }
 #containerFaq.container-sm {
   min-width: 1000px;
+  max-width: 1000px;
 }
 
 @media (max-width: 768px) {
