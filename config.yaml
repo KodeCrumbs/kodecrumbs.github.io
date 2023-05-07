@@ -13,7 +13,7 @@ languages:
         weight: 10
         url: /
       - identifier: joinus
-        name: Join Us!
+        name: Join Us
         weight: 20
         url: /joinus/
       - identifier: projects
@@ -21,7 +21,7 @@ languages:
         weight: 30
         url: /projects/
       - identifier: faq
-        name: FAQ
+        name: FAQs
         weight: 40
         url: /faq/
       - identifier: team
