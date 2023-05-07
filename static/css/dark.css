@@ -34,9 +34,9 @@ a {
   --bs-btn-hover-border-color: #5e5e5ef6;
 }
 .form-control{
-  background-color: #212529;
-  border-color: #979797;
-  color: #ffffff;
+  background-color: #181818;
+  border-color: #181818;
+  color: #eeeeee;
 }
 .form-control:focus {
   background-color: #212529;
@@ -85,4 +85,29 @@ a {
   #containerFaq.container-sm {
     min-width: 100%;
   }
+}
+
+.accordion-button{
+  background-color: #181818;
+  color: #f3b160;
+  
+}
+.accordion-button ::after {
+  background-color: #313131;  
+}
+.accordion-item{
+  color: #ffffff;
+  background-color: #121212;
+  width: 100%;
+  height: 100%;
+}
+.accordion-button:not(.collapsed){
+  color: #f3b160;
+  background-color: #181818;
+}
+.text-muted {
+  color:#f3b160 !important;
+}
+:root{
+  --bs-secondary-color: #474747;
 }
