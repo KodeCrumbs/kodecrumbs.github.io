@@ -8,12 +8,12 @@ paige:
         display: none;
     }
     #paige-title {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 title: "Kode Crumbs"
 ---
 
-{{< paige/image alt="Kode Crumbs" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" width="100rem" justify="center" loading="eager" process="webp" src="KodeCrumbs- Lab-Orange.svg" >}}
+{{< paige/image alt="Kode Crumbs" breakpoints=true class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" width="100%" justify="center" loading="eager" process="webp" src="KodeCrumbs- Lab-Orange.svg" >}}
 
 <p class="display-5 fw-bold h2 text-center">Unleash Your Coding Potential with Kode Crumbs</p>
 
