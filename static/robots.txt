@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /search-engine
+Sitemap: https://kodec.tech/sitemap.xml
