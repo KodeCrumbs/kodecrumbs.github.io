@@ -86,17 +86,15 @@ outputs:
   - rss
 params:
   authors:
-    kartikey:
+    kartikey-chauhan:
       name: "Kartikey Singh Chauhan"
-    dhruv:
-      name: "Dhruv Tandon"
-    kunwar:
+    kunwar-utkarsh:
       name: "Kunwar Utkarsh"
-    shreya:
+    shreya-maurya:
       name: "Shreya Maurya"
 taxonomies:
   author: "team"
-paginate: 50
+paginate: 30
 permalinks:
   team: /:year/:month/:day/:title/
   projects: /:year/:month/:day/:title/
