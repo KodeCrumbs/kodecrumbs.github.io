@@ -92,6 +92,8 @@ params:
       name: "Kunwar Utkarsh"
     shreya-maurya:
       name: "Shreya Maurya"
+    chitransh-verma:
+      name: "Chitransh Verma"
 taxonomies:
   author: "team"
 paginate: 30
